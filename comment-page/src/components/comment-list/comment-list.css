@@ -1,0 +1,8 @@
+.comment-list-container {
+    margin-left: 100px;
+}
+
+.comment-list {
+    border: solid 1px;
+    padding: 10px;
+}
